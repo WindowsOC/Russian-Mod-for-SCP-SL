@@ -41,7 +41,7 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
 > **SCP's**:
 
-> ![Снимок экрана 2024-08-29 143047](https://github.com/user-attachments/assets/9b564af0-c8f4-498c-9131-b1f255c61b12)
+> ![image](https://github.com/user-attachments/assets/7b1e2f00-0a43-437b-82e9-e764d6fc57d7)
 
 > ![Снимок экрана 2024-08-29 145857](https://github.com/user-attachments/assets/564136f1-b021-4e88-81d9-5648e4c6b2db)
 
