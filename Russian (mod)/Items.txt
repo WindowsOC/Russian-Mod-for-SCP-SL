@@ -21,7 +21,7 @@
 21~<color=#a2cade>🔫 Crossvec 🔫</color>
 23~<color=#606770>🔫 FSP-9 🔫</color>
 24~<color=#35493e>🔫 Logicer 🔫</color>
-25~<color=#8f3c3c>💣 Граната 💣</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Граната</color> [<color=#FFA500>💥</color>]\n\n Arm Time <color=#DC143C>5c</color>\n <color=#FFFF00> Применяется при ожогах и сотрясении мозга \n <color=#FF0000>Слабее по отношению к людям</color>
+25~<color=#8f3c3c>💣 Граната 💣</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Граната</color> [<color=#FFA500>💥</color>]\n\n Время срабатывания <color=#DC143C>5c</color>\n <color=#FFFF00> Применяется при ожогах и сотрясении мозга \n <color=#FF0000>Слабее по отношению к людям</color>
 26~<color=#606770>💣 Светошумовая граната 💣</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Граната</color> [<color=#FFA500>💥</color>]\n\nПозволяет ослеплять врагов\nВремя действия <color=#DC143C>3c</color> \n Макс. время ослепления <color=#DC143C>5c</color>
 30~<color=#606770>🔫 COM-18 🔫</color>
 31~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#ff0000>018</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Предмет</color> [<color=#FFA500>⚠</color>]\n\n Длится <color=#DC143C>80с</color> \n <color=#FF0000>Чем быстрее движется, чем больше урона сносит</color>!
