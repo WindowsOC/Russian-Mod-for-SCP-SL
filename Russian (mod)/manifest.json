@@ -1,0 +1,22 @@
+{
+  "Name": "<u><b>Russian [Mod Version: 1.0.1]<b></u>",
+  "Authors": [
+    "Windows (Adasiek & Dominikk)"
+  ],
+  "InterfaceLocales": [
+    "ru-RU",
+    "ru"
+  ],
+  "SystemLocales": [
+    "ru-BY",
+    "ru-KZ",
+    "ru-KG",
+    "ru-MD",
+    "ru-RU",
+    "ru-UA",
+    "ru"
+  ],
+  "ForcedFontOrder": [
+    ":troll:"
+  ]
+}
