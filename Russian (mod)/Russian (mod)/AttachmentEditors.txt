@@ -1,0 +1,16 @@
+Пользовательская
+Preset <color=#8c9600>#[index]</color>
+<color=#0c7d00>СОХР</color>
+<color=#b50202>ОЧИСТИТЬ ОБВЕСЫ</color>
+По умолчанию
+<color=#0e02b5>ПРЕДУСТАНОВКИ🔫</color>
+СТАНЦИЯ - <color=#c00>ОФФЛАЙН</color>
+<color=#ccc>ТОЧКА МОДИФИКАЦИИ ОРУЖИЯ ЗОНЫ-02</color> - В РЕЖИМЕ ОЖИДАНИЯ\n<size=39>КОСНИТЕСЬ ЭКРАНА ДЛЯ АКТИВАЦИИ.\n<color=#7d7300>ТОЛЬКО УПОЛНОМОЧЕННЫЙ ПЕРСОНАЛ.</color></size>
+<size=40>ДОБРО ПОЖАЛОВАТЬ В <color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color></size>
+<size=60>СТАНЦИЯ \n<color=#8c9600>ВКЛЮЧАЕТСЯ...</color></size>
+СТАНЦИЯ - <color=#0c7d00>ГОТОВА</color>
+<size=52><color=#ccc>ТОЧКА МОДИФИКАЦИИ ОРУЖИЯ ЗОНЫ-02</color> - <color=#0c7d00>ГОТОВА</color></size>\n<size=42><color=#fc6900>ПОЖАЛУЙСТА, ВОЗЬМИТЕ ВАШЕ ОРУЖИЕ В РУКИ ДЛЯ МОДИФИКАЦИИ</color></size>
+<color=#c00>ВЫКЛЮЧЕНИЕ...</color>
+СТАНЦИЯ <color=#fc6900>ВЫКЛЮЧАЕТСЯ</color>
+<color=#0c7d00>ПОКАЗАТЬ СВОДКУ</color>
+<color=#c00>СКРЫТЬ СВОДКУ</color>

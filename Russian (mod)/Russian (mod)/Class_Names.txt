@@ -1,0 +1,24 @@
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>1</color><color=#e71414>7</color><color=#ec2222>3」</color>
+<color=#894c00>「К</color><color=#9d5700>л</color><color=#b16200>а</color><color=#c46e00>с</color><color=#d87800>с</color><color=#eb8300>-</color><color=#ff8e00>D」</color>
+<color=#8e9266>「Н</color><color=#979c70>а</color><color=#a0a47c>б</color><color=#a8ac87>л</color><color=#b0b493>ю</color><color=#b9bc9e>д</color><color=#c1c4aa>а</color><color=#caccb5>т</color><color=#d2d4c1>е</color><color=#dddfd0>ь」</color>
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>1</color><color=#e71414>0</color><color=#ec2222>6」</color>
+<color=#00859d>「МОГ</color> <color=#0090a9>С</color><color=#009ab5>п</color><color=#00a3c0>е</color><color=#00aac8>ц</color><color=#00aac8>и</color><color=#00aac8>а</color><color=#00a0bc>л</color><color=#00b5d4>и</color><color=#00c9ec>с</color><color=#00d9ff>т」</color>
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>0</color><color=#e71414>4</color><color=#ec2222>9」</color>
+<color=#696900>「У</color><color=#7d7d00>ч</color><color=#909000>е</color><color=#a4a400>н</color><color=#b8b800>ы</color><color=#cbcb00>й」</color>
+<color=#0a0aff>「S</color><color=#1e1eff>C</color><color=#3232ff>P</color><color=#4545ff>-</color><color=#5959ff>0</color><color=#6c6cff>7</color><color=#8080ff>9」</color>
+<color=#203700>「П.Х.</color> <color=#2c4c00>Н</color><color=#375e00>о</color><color=#467800>в</color><color=#508800>о</color><color=#579400>б</color><color=#5ea100>р</color><color=#67b000>а</color><color=#6ebc00>н</color><color=#75c700>е</color><color=#75c700>ц」</color>
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>0</color><color=#e71414>9</color><color=#ec2222>6」</color>
+<color=#680909>「S</color><color=#7a0b0b>C</color><color=#8c0c0c>P</color><color=#9e0e0e>-</color><color=#b00f0f>0</color><color=#c21111>4</color><color=#d51212>9</color><color=#e71414>-</color><color=#ec2222>2」</color>
+<color=#003a62>「МОГ</color> <color=#004576>С</color><color=#005189>е</color><color=#005c9d>р</color><color=#0068b1>ж</color><color=#0073c4>а</color><color=#007fd8>н</color><color=#008aeb>т」</color>
+<color=#001f68>「МОГ</color> <color=#00257c>К</color><color=#002b8f>а</color><color=#0031a3>п</color><color=#0037b6>и</color><color=#003dca>т</color><color=#0043de>а</color><color=#0049f1>н」</color>
+<color=#0085e6>「МОГ</color> <color=#0091f9>Р</color><color=#0e9aff>я</color><color=#22a2ff>д</color><color=#49b3ff>о</color><color=#49b3ff>в</color><color=#5cbbff>о</color><color=#70C3FF>й」</color>
+<color=#970364>「О</color><color=#b00a77>б</color><color=#ca138b>у</color><color=#e41b9f>ч</color><color=#e81ca2>е</color><color=#ec1da5>н</color><color=#f01ea8>и</color><color=#ff23b4>е」</color>
+<color=#414650>「О</color><color=#49505a>х</color><color=#525965>р</color><color=#5b6370>а</color><color=#5b6370>н</color><color=#595e67>н</color><color=#565a60>и</color><color=#515357>к」</color>
+<color=#560707>「S</color><color=#680909>C</color><color=#7a0b0b>P</color><color=#8c0c0c>-</color><color=#9e0e0e>9</color><color=#b00f0f>3</color><color=#c21111>9」</color>
+-
+<color=#002d09>「П.Х.</color> <color=#00410d>С</color><color=#005410>т</color><color=#006814>р</color><color=#007b18>е</color><color=#008f1c>л</color><color=#00a320>о</color><color=#00b624>к」</color>
+<color=#002d10>「П.Х.</color> <color=#004118>М</color><color=#00541f>а</color><color=#006826>р</color><color=#007c2d>о</color><color=#008f34>д</color><color=#00a33c>ё</color><color=#00b643>р」</color>
+<color=#04240f>「П.Х.</color> <color=#063617>У</color><color=#07481e>с</color><color=#095926>м</color><color=#0b6b2d>и</color><color=#0d7d35>р</color><color=#0f8f3d>и</color><color=#11a144>т</color><color=#13b24c>е</color><color=#14c453>л</color><color=#15d75b>ь」</color>
+「Надзиратель」
+「Режиссёр」
+<color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>3</color><color=#e71414>1</color><color=#ec2222>1</color><color=#ec2222>4」</color>
