@@ -1,4 +1,0 @@
-<size=350><color=#FF0000>☢️</color></size>\n<size=70>   СТАТУС: <color=#FF0000>ОТКЛЮЧЕНО</color></size>
-<size=350><color=#FFFF00>☢️</color></size>\n<size=70>   СТАТУС: <color=#FFFF00>ОЖИДАЙТЕ</color></size>
-<size=350><color=#00FF00>☢️</color></size>\n<size=70>   СТАТУС: <color=#00FF00>ГОТОВО</color></size>
-ДЕТОНАЦИЯ НЕИЗБЕЖНА

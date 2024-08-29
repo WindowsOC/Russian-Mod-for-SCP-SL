@@ -1,8 +1,0 @@
-<color=#00FF00>ГОТОВ\nДЛЯ ВЕЩАНИЯ</color>
-<color=#00FF00>ИДЁТ ВЕЩАНИЕ...</color>\n<size=70%>ОСТАЛОСЬ:<color=#FFFF00> {0}</size></color>
-<color=#00FF00>ИДЁТ ВЕЩАНИЕ...</color>\n<color=#00FFFF><size=70%>РЕЖИМ ОБХОДА</size></color>
-<color=#FF0000>ПЕРЕЗАПУСК...</color>\n<color=#FFFF00>{0}</color>
-ИНТЕРКОМ ИСПОЛЬЗУЕТСЯ\n<color=#FF0000><size=70%>АДМИНИСТРАТОРОМ</size></color>
-ТЫ БЫЛ <color=#808080>ЗАМУЧЕН</color> <color=#FF0000>АДМИНИСТРАТОРОМ</color>
-НЕИЗВЕСТНО
-<color=yellow>НАЧИНАЕМ\n ВЕЩАНИЕ...</color>

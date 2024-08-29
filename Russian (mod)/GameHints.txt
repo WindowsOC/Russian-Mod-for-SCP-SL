@@ -1,6 +1,0 @@
-<color=red>Доступ Запрещён</color>
-<color=red>❌</color>\n<b>Достигнут лимит</b> <color=yellow>[type] ammo</color> (<color=yellow>[max_type_count] rounds</color>).
-<color=red>❌</color>\n<b>Достигнут лимит</b> <color=yellow>[type] ammo</color> (<color=yellow>[max_type_count] rounds</color>).
-<color=yellow>❌</color>\n<b>Достигнут лимит</b> <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>).
-<color=red>❌</color>\n<b>Достигнут лимит</b> <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>).
-<color=red>❌</color>\nИНВЕНТАРЬ ПОЛНЫЙ
