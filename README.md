@@ -8,13 +8,20 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
 📁 Steam\steamapps\common\SCP Secret Laboratory\Translations.
 
+<hr>
+
 ![Снимок экрана 2024-08-29 142522](https://github.com/user-attachments/assets/1777eaf3-99f1-4235-9310-452a21711ee6)
 
 2. В настройках игры вам нужно будет перейти в раздел "<b>Интерфейс</b>", а затем изменить язык игры на "<b>Russian Mod</b>"
 
+   <hr>
+
    ![Снимок экрана 2024-08-29 142740](https://github.com/user-attachments/assets/2860c0a5-a37a-4fce-9853-3d9b65825de3)
 
 3. Перезапустите игру и наслаждайтесь переводом!
+
+   <hr>
+
 # 🔍 **Просмотр:**
 > **Главное Меню**:
 
