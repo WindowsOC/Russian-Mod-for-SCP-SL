@@ -15,7 +15,7 @@
 <color=green>🔓</color> РАЗБЛОКИРОВАТЬ ДВЕРЬ
 <color=yellow>⚠</color> ПЕРЕЗАРЯДКА БЛОКИРОВКИ ДВЕРИ <color=yellow>⚠</color>
 <color=#8080FF>⚡ <size=90%>ВСПОМОГАТ. ЭНЕРГИЯ</size></color>
-<color=yellow>⚠</color><color=red> АКТИВНЫЙ ГЕНЕРАТОР </color><color=yellow>⚠</color>
+<color=yellow>⚠</color><color=red> АКТИВИРОВАН ГЕНЕРАТОР </color><color=yellow>⚠</color>
 <color=green>🔓</color> РАЗБЛОКИРОВАТЬ ДВЕРИ
 <color=#8080FF>⬆️</color> ОТКРЫТЬ КАРТУ КОМПЛЕКСА
 <size=125%><color=#ff0000>❌</color></size> ЗАКРЫТЬ 
