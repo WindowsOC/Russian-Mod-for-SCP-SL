@@ -15,7 +15,7 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
    ![Снимок экрана 2024-08-29 142740](https://github.com/user-attachments/assets/2860c0a5-a37a-4fce-9853-3d9b65825de3)
 
 3. Перезапустите игру и наслаждайтесь переводом!
-# 🔍 **Prewiew:**
+# 🔍 **Просмотр:**
 > **Главное Меню**:
 
 > ![Снимок экрана 2024-08-29 142931](https://github.com/user-attachments/assets/37acfca5-fef5-4de6-985b-b90f7b371ea7)
