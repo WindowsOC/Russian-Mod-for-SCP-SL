@@ -1,5 +1,5 @@
-<color=green><size=30>ОТКРЫТЬ</size></color>
-<color=#07A2FF><size=30>ЗАКРЫТЬ</size></color>
+<color=green><size=30>ОТКРЫТО</size></color>
+<color=#07A2FF><size=30>ЗАКРЫТО</size></color>
 <color=orange><size=50>┃⇆┃</size>
 <color=red><size=50>-❌-</size></color>
 <size=40><color=yellow>⚠</color></size>
