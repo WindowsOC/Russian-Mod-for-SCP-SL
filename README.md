@@ -1,9 +1,11 @@
 # Russian-Mod-for-SCP-SL
 Original: https://github.com/RamonDevTeam/Translations 
 
+SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian Players😎
+
 > После Выхода 14.0 Мы постараемся как можно быстрее сделать для вас v2.0.0
 
-SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian Players😎
+> Russian Mod был сделан на основе English Mod v4.0.3  
 
 # **Russian:**
 1. Распакуйте файлы с переводом в файлы игры:
