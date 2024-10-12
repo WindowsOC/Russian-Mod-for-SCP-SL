@@ -1,59 +1,83 @@
-Northwood Chief Executive Officer
-Northwood Chief Information Officer
-Northwood Chief Operations Officer
-Northwood Community Director
-Northwood Discord Manager
-Northwood Executive Assistant
-Northwood Feedback Manager
-Northwood Human Resources
-Northwood Human Resources Director
-Northwood Marketing Platform Manager
-Northwood Staff
-Northwood Steam Manager
-Northwood System Administrator
-Northwood Wiki Manager
-SCP:SL Art Manager
-SCP:SL Art Supervisor
-SCP:SL Artist
-SCP:SL Backend Programmer
-SCP:SL Backend Programming Manager
-SCP:SL Developer
-SCP:SL Event Winner
-SCP:SL Fullstack Programmer
-SCP:SL Game Designer
-SCP:SL Gameplay Programmer
-SCP:SL Global Moderation Manager
-SCP:SL Global Moderator
-SCP:SL Lead Game Designer
-SCP:SL Lead Gameplay Programmer
-SCP:SL Level Designer
-SCP:SL Partner
-SCP:SL Patreon Supporter
-SCP:SL Quality Assurance Manager
-SCP:SL Sound Designer
-SCP:SL Game Director
-SCP:SL Official Server Manager
-Northwood Verification Specialist
-SCP:SL Anti-Cheat Developer
-SCP:SL Quality Assurance Tester
-SCP:SL Quality Assurance Supervisor
-SCP:SL Twitch Subscriber
-SCP:SL Audio Manager
-Northwood Feedback Coordinator
-Northwood Verification Supervisor
-SCP:SL Official Server Supervisor
-Northwood Feedback Supervisor
-Northwood Verification Manager
-Northwood Bot Manager
-Northwood Translation Manager
-SCP:SL Game Design Manager
-SCP:SL Animator
-Northwood Public Relations Director
-SCP:SL Community Helper
-SCP:SL Voice Actor
-SCP:SL Foundation Investor
-Northwood Studio Director
-SCP:SL Game Director Assistant
-Northwood Tech Support Supervisor
-Northwood Tech Support Manager
-Northwood System Administration Manager
+Директор Northwood
+ИТ-Директор Northwood
+Исполнительный Директор Northwood
+Комьюнити-Директор Northwood
+Discord-Менеджер Northwood
+Исполнительный Помощник Northwood
+Менеджер По Обратной Связи Northwood
+Сотрудник Отдела Кадров Northwood
+Директор Отдела Кадров Northwood
+Менеджер Маркетинговой Платформы Northwood
+Сотрудник Northwood
+Steam-Менеджер Northwood
+Системный Администратор Northwood
+Менеджер Wiki Northwood
+Художественный Менеджер SCP:SL
+Художественный Руководитель SCP:SL
+Художник SCP:SL
+Backend-Разработчик SCP:SL
+Менеджер Backend-Разработки SCP:SL
+Разработчик SCP:SL
+Победитель Мероприятия SCP:SL
+Fullstack-Разработчик SCP:SL
+Геймдизайнер SCP:SL
+Программист Игрового Процесса SCP:SL
+Менеджер Глобальной Модерации SCP:SL
+Глобальный Модератор SCP:SL
+Ведущий Геймдизайнер SCP:SL
+Ведущий Программист Игрового Процесса SCP:SL
+Дизайнер Уровней SCP:SL
+Партнёр SCP:SL
+Подписчик Patreon SCP:SL
+Менеджер Отдела Контроля Качества SCP:SL
+Саунд-Дизайнер SCP:SL
+Директор Игры SCP:SL
+Менеджер Официального Сервера SCP:SL
+Специалист по Верификации Northwood
+Разработчик Античита SCP:SL
+Тестировщик Отдела Контроля Качества SCP:SL
+Руководитель Отдела Контроля Качества SCP:SL
+Подписчик Twitch SCP:SL
+Музыкальный Менеджер SCP:SL
+Координатор Обратной Связи Northwood
+Руководитель Верификации Northwood
+Руководитель Официального Сервера SCP:SL
+Руководитель Обратной Связи Northwood
+Менеджер Верификации Northwood
+Менеджер Ботов Northwood
+Менеджер Перевода Northwood
+Менеджер Геймдизайна SCP:SL
+Аниматор SCP:SL
+Директор По Связям С Общественностью Northwood
+Помощник От Сообщества SCP:SL
+Актёр Озвучивания SCP:SL
+Инвестор Фонда SCP:SL
+Директор Студии Northwood
+Заместитель Директора Игры SCP:SL
+Руководитель Технической Поддержки Northwood
+Менеджер Технической Поддержки Northwood
+Менеджер Системного Администрирования Northwood
+Нарративный Дизайнер SCP:SL
+Руководитель Маркетинговой Платформы Northwood
+Ведущий Звукоинженер SCP:SL
+Координатор Перевода Nortwood
+Директор Службы Безопасности Northwood
+Советник по Безопасности Northwood
+Заместитель Директора Службы Безопасности Northwood
+Заместитель Директора по Связям с Общественностью
+Заместитель Комьюнити-директора
+Заместитель Директора Отдела Кадров
+Руководитель Геймдизайна SCP:SL
+Руководитель Дизайна Уровней SCP:SL
+Руководитель Глобальной Модерации SCP:SL
+Руководитель Системного Администрирования Northwood
+Руководитель Веб-разработки Northwood 
+Менеджер Веб-разработки Northwood
+Руководитель Редакции Northwood 
+Менеджер Редакции Northwood
+Руководитель Patreon Northwood
+Менеджер Patreon Northwood
+Руководитель SMM Northwood 
+Менеджер SMM Northwood
+Руководитель Перевода Northwood
+Руководитель Steam Northwood
