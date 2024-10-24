@@ -12,6 +12,6 @@
 Статус Боеголовки "Альфа": [<color=red>💥</color>] <color=orange>ВЗОРВАННО</color> [<color=red>💥</color>] | взрыв уничтожил [summary_warhead_kills] существ.
 Статус Боеголовки "Альфа": <color=#228B22>НЕ ВЗОРВАННО</color>
 Время Раунда: [summary_round_minutes]:[summary_round_seconds]
-[summary_scp_terminated] уничтожено <color=red>SCPs</color>
+[summary_scp_terminated] уничтожено <color=red>Спектров</color>
 След. Раунд через [summary_next_round_countdown] секунд.
-<color=red>SCP</color> Убили [summary_scpfrags] человеческих существ.
+<color=red>Спектры</color> Убили [summary_scpfrags] человеческих существ.
