@@ -7,8 +7,8 @@
 Все угрозы безопасности ликвидированы. Безопасность Зоны-02 восстановлена.
 Комплекс зачищен от присутствия Фонда SCP. Оперативники ожидают дальнейших указаний.
 Зона-02 находится под частичным контролем, но не без потерь. Победитель не был определён.
-<color=#FF8E00>🏃</color> [summary_d_escaped] <color=#FF8E00>класса-d</color> сбежало <color=#FF8E00>🏃</color>
-<color=#FFFF7C>🏃</color> [summary_s_escaped] <color=#FFFF7C>ученых</color> сбежало <color=#FFFF7C>🏃</color>
+<color=#FF8E00>🏃</color> [summary_d_escaped] <color=#FF8E00>Класса-Д</color> сбежало <color=#FF8E00>🏃</color>
+<color=#FFFF7C>🏃</color> [summary_s_escaped] <color=#FFFF7C>Ученых</color> сбежало <color=#FFFF7C>🏃</color>
 Статус Боеголовки "Альфа": [<color=red>💥</color>] <color=orange>ВЗОРВАННО</color> [<color=red>💥</color>] | взрыв уничтожил [summary_warhead_kills] существ.
 Статус Боеголовки "Альфа": <color=#228B22>НЕ ВЗОРВАННО</color>
 Время Раунда: [summary_round_minutes]:[summary_round_seconds]

@@ -1,6 +1,6 @@
 Ничего
 <color=#DC143C>「SCP-173」</color>
-<color=#FF8E00>「Класс-D」</color>
+<color=#FF8E00>「Класс-Д」</color>
 「Наблюдатель」
 <color=#DC143C>「SCP-106」</color>
 <color=#00d9ff>「Специалист」</color>
