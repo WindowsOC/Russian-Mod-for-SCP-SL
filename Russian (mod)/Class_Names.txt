@@ -1,8 +1,8 @@
-<b> <color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>1</color><color=#e71414>7</color><color=#ec2222>3」</color> </b>
-<b> <color=#894c00>「К</color><color=#9d5700>л</color><color=#b16200>а</color><color=#c46e00>с</color><color=#d87800>с</color><color=#eb8300>-</color><color=#ff8e00>Д」</color> </b>
-<b> <color=#8e9266>「Н</color><color=#979c70>а</color><color=#a0a47c>б</color><color=#a8ac87>л</color><color=#b0b493>ю</color><color=#b9bc9e>д</color><color=#c1c4aa>а</color><color=#caccb5>т</color><color=#d2d4c1>е</color><color=#dddfd0>」</color></b>
-<b> <color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>1</color><color=#e71414>0</color><color=#ec2222>6」</color></b>
-<b> <color=#00859d>「МОГ</color> <color=#0090a9>С</color><color=#009ab5>п</color><color=#00a3c0>е</color><color=#00aac8>ц</color><color=#00aac8>и</color><color=#00aac8>а</color><color=#00a0bc>л</color><color=#00b5d4>и</color><color=#00c9ec>с</color><color=#00d9ff>т」</color></b>
+<b><color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>1</color><color=#e71414>7</color><color=#ec2222>3」</color></b>
+<b><color=#894c00>「К</color><color=#9d5700>л</color><color=#b16200>а</color><color=#c46e00>с</color><color=#d87800>с</color><color=#eb8300>-</color><color=#ff8e00>Д」</color></b>
+<b> <color=#8e9266>「Н</color><color=#979c70>а</color><color=#a0a47c>б</color><color=#a8ac87>л</color><color=#b0b493>ю</color><color=#b9bc9e>д</color><color=#c1c4aa>а</color><color=#caccb5>т</color><color=#d2d4c1>е</color><color=#dddfd0>ль」</color></b>
+<b><color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>1</color><color=#e71414>0</color><color=#ec2222>6」</color></b>
+<b><color=#00859d>「МОГ</color> <color=#0090a9>С</color><color=#009ab5>п</color><color=#00a3c0>е</color><color=#00aac8>ц</color><color=#00aac8>и</color><color=#00aac8>а</color><color=#00a0bc>л</color><color=#00b5d4>и</color><color=#00c9ec>с</color><color=#00d9ff>т」</color></b>
 <b><color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>0</color><color=#e71414>4</color><color=#ec2222>9」</color></b>
 <b><color=#696900>「У</color><color=#7d7d00>ч</color><color=#909000>е</color><color=#a4a400>н</color><color=#b8b800>ы</color><color=#cbcb00>й」</color></b>
 <b><color=#0a0aff>「S</color><color=#1e1eff>C</color><color=#3232ff>P</color><color=#4545ff>-</color><color=#5959ff>0</color><color=#6c6cff>7</color><color=#8080ff>9」</color></b>
@@ -18,7 +18,7 @@
 -
 <b><color=#002d09>「П.Х.</color> <color=#00410d>С</color><color=#005410>т</color><color=#006814>р</color><color=#007b18>е</color><color=#008f1c>л</color><color=#00a320>о</color><color=#00b624>к」</color></b>
 <b><color=#002d10>「П.Х.</color> <color=#004118>М</color><color=#00541f>а</color><color=#006826>р</color><color=#007c2d>о</color><color=#008f34>д</color><color=#00a33c>ё</color><color=#00b643>р」</color></b>
-<b><color=#04240f>「П.Х.</color> <color=#063617>У</color><color=#07481e>с</color><color=#095926>м</color><color=#0b6b2d>и</color><color=#0d7d35>р</color><color=#0f8f3d>и</color><color=#11a144>т</color><color=#13b24c>е</color><color=#14c453>л</color><color=#15d75b>ь」</color> </b>
+<b><color=#04240f>「П.Х.</color> <color=#063617>У</color><color=#07481e>с</color><color=#095926>м</color><color=#0b6b2d>и</color><color=#0d7d35>р</color><color=#0f8f3d>и</color><color=#11a144>т</color><color=#13b24c>е</color><color=#14c453>л</color><color=#15d75b>ь」</color></b>
 <b>「Надзиратель」</b>
 <b>「Режиссёр」</b>
-<b> <color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>3</color><color=#e71414>1</color><color=#ec2222>1</color><color=#ec2222>4」</color></b>
+<b><color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>3</color><color=#e71414>1</color><color=#ec2222>1</color><color=#ec2222>4」</color></b>
