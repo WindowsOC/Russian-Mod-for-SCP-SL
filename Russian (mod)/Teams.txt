@@ -1,4 +1,4 @@
-<color=#EC2222>☣️ <b>Приведения</b></color>
+<color=#EC2222>☣️ <b>SCP Объекты</b></color>
 <color=#5B6370>🚓 <b>Охраники</b></color> & <color=#0096FF>🚁 <b>MОГ</b></color>
 <color=#008F1C>🚙 <b>Агенты Повстанцев Хаоса</b></color>
 <color=#FFFF7C>🔬 <b>Ученые</b></color>
