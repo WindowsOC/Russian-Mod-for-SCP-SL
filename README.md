@@ -20,7 +20,7 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
    <hr>
 
-   ![image](https://github.com/user-attachments/assets/66464cff-7257-414a-9a4d-52c5d2745c31)
+   ![image](https://github.com/user-attachments/assets/ce192243-3e8a-42b4-a62f-0b4133781372)
 
 3. Перезапустите игру и наслаждайтесь переводом!
 
@@ -31,9 +31,10 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
 > ![Снимок экрана 2024-11-25 172630](https://github.com/user-attachments/assets/895ef4a2-b67b-4370-b393-e78ae229757e)
 
->![Снимок экрана 2024-11-25 172649](https://github.com/user-attachments/assets/556137d8-1561-46c0-b52b-d2471e4e79b7)
- 
+>![Снимок экрана 2024-11-25 172649](https://github.com/user-attachments/assets/368ac7e3-d89c-4c17-8ffc-8fa41061d8eb)
 
+
+ 
 > **Загрузочный Экран/Подсказки**:
 
 > ![Снимок экрана 2024-11-25 172702](https://github.com/user-attachments/assets/6f4b20e5-20a8-422d-855a-96a599772509)
