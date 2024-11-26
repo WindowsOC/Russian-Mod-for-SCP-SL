@@ -81,3 +81,9 @@ Fullstack-Разработчик SCP:SL
 Менеджер SMM Northwood
 Руководитель Перевода Northwood
 Руководитель Steam Northwood
+Менеджер Левел Дизайна SCP:SL
+Анти-Чит Менеджер SCP:SL
+Анти-Чит Руководитель SCP:SL
+Руководитель Вики Northwood
+Руководитель Группы SCP:SL API
+Сопроводитель SCP:SL API

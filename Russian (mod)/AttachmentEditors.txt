@@ -1,5 +1,5 @@
 Пользовательская
-Preset <color=#8c9600>#[index]</color>
+Пресет <color=#8c9600>#[index]</color>
 <color=#0c7d00>СОХР</color>
 <color=#b50202>ОЧИСТИТЬ ОБВЕСЫ</color>
 По умолчанию
@@ -14,3 +14,5 @@ Preset <color=#8c9600>#[index]</color>
 СТАНЦИЯ <color=#fc6900>ВЫКЛЮЧАЕТСЯ</color>
 <color=#0c7d00>ПОКАЗАТЬ СВОДКУ</color>
 <color=#c00>СКРЫТЬ СВОДКУ</color>
+Модификация [Attachment]
+Нажми [Key] для модификации обвесов.

@@ -16,7 +16,7 @@
 15~<color=#606770>🔦 Фонарик 🔦</color>~Да будет свет!
 16~<color=#5EE9FF>⚡</color><color=#1841c8> Micro H.I.D.</color><color=#5EE9FF> ⚡</color>~<color=#00FF00>5с</color> \n Задержка при выстреле: <color=#00FF00>2c</color> \n Максимальная длительность выстрела: <color=#00FF00>10с \n <color=#F5650A>Наносит 1150HP в секунду. \n <size=90%><color=#FFFF00>Расход выносливости +50%</color></size>
 17~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04b018>500</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Предмет</color> [<color=#FFA500>⚠</color>]\n \n<color=#00FF00>+200hp</color> в течении <color=#DC143C>10с</color> \n Устраняет все негативные эффекты
-18~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>207</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Предмет</color> [<color=#FFA500>⚠</color>]\n<size=83%><color=#00FF00>+30HP</color> после <color=#DC143C>5с</color> \n Более высокая скорость передвижения \n <color=#F5650A>Со временем расходует HP</color> \n <color=#EC2222>Плохо смешивается с другими жидкостями, такими как SCP-1853</color></size>
+18~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>207</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Предмет</color> [<color=#FFA500>⚠</color>]\n<size=83%><color=#00FF00>+30HP</color> \n Более высокая скорость передвижения \n <color=#F5650A>Со временем расходует HP</color> \n <color=#EC2222>Плохо смешивается с другими жидкостями, такими как SCP-1853</color></size>
 20~<color=#5180f7>🔫 MTF-E11-SR 🔫</color>
 21~<color=#a2cade>🔫 Crossvec 🔫</color>
 23~<color=#606770>🔫 FSP-9 🔫</color>
@@ -43,7 +43,7 @@
 47~<color=#1841c8>🔫 3-X Молекулярный Разрушитель 🔫</color>
 48~<color=#ff0000>🔫 COM-45 🔫</color>
 49~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#6e04b0>1576</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Предмет</color> [<color=#FFA500>⚠</color>]\n\nПозволяет временно общаться с мёртвыми.
-50~<color=#037ffc>Jailbird</color>~[<color=yellow>⚡</color>] <color=#3f3d87>Экспериментальный</color> [<color=yellow>⚡</color>] \n\nОткуда это..? [<b><color=red>📓</color></b>]\n\n[<color=#FFFF00>ЛКМ</color>] Наносит: 50 УРН\n[<color=#FFFF00>ПКМ</color>] Наносит: 250 УРН
+50~<color=#037ffc>Jailbird</color>~[<color=yellow>⚡</color>] <color=#3f3d87>Экспериментальный</color> [<color=yellow>⚡</color>] \n\n[<color=#FFFF00>ЛКМ</color>] Наносит: 50 УРН\n[<color=#FFFF00>ПКМ</color>] Наносит: 250 УРН
 51~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>207?</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>SCP Предмет</color> [<color=#FFA500>⚠</color>]\n\nСнижает вашу скорость, но дает эффект регенерации\n<size=90%>НЕ СМЕШИВАТЬ С:\n<color=#95D600>другими жидкостями, такими как SCP-1853</color> или <color=#F40009>SCP-207</color></size>
 52~<color=#003DCA>🔫 MTF-Ԑ-11-MG 🔫</color>
 53~<color=#ff0000>🔫 A7 🔫</color>

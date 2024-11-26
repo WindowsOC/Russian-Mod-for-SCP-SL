@@ -1,5 +1,6 @@
-<color=blue>🎬</color> Видео
-<color=purple>♫</color> Аудио
-<color=#53f502>ⓌⓈⒶⒹ</color> Управление
-<color=orange>🔍</color> Интерфейс
-<color=#616161><size=120%>🔒</size></color> Прочее
+<color=blue>🎬 <b>|</b></color> Видео
+<color=purple>♫ <b>|</b></color> Аудио
+<color=#53f502>ⓌⓈⒶⒹ <b>|</b></color> Управление
+<color=orange>🔍 <b>|</b></color> Интерфейс
+<color=#616161><size=120%>🔒 <b>|</b></size></color> Прочее
+<color=red>⚙️ <b>|</b></color> Пользовательские
