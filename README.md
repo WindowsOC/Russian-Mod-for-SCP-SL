@@ -39,7 +39,7 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
 > **Информация о Классе**:
 
-> ![Снимок экрана 2024-11-25 173203](https://github.com/user-attachments/assets/6b88d43a-75e6-4c6f-b356-0f1b1d74a6f0)
+> ![Снимок экрана 2024-12-01 221522](https://github.com/user-attachments/assets/1d5ebb0c-fb66-44ca-b6c7-30fd0fdb66a1)
 
 > **Админ Панель**:
 
@@ -55,7 +55,7 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
 >![image](https://github.com/user-attachments/assets/7bf5b4af-eda1-4bae-8321-b41af09f90bb)
 
->![image](https://github.com/user-attachments/assets/75448a71-6f03-4ec5-8479-541655bdcc36)
+>![Снимок экрана 2024-12-01 221726](https://github.com/user-attachments/assets/6541f5a8-0603-481a-b84a-f6b3d2c002d8)
 
 
 
