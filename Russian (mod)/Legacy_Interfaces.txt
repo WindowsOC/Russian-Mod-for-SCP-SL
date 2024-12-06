@@ -1,14 +1,14 @@
 ОТДАВАЙТЕ ПРИКАЗЫ
 СЛЕДУЙТЕ ПРИКАЗАМ
 ТОТ ЖЕ РАНК
-Class-D Personnel escaped
-Scientists survived
-Killed by SCP
-Terminated SCP subjects
-Alpha Warhead
-Detonated
-Unused
-The next round will start in [time] seconds.
+Класса D сбежало
+Ученых выжило
+людей было убито объектами SCP
+уничтожено объектов SCP
+Боеголовка "Альфа"
+Взорвана
+Не использована
+Следующий раунд начнётся через: [time] секунд.
 СПЕЦИАЛЬНАЯ СПОСОБНОСТЬ
 CREATE SINKHOLE
 USE SINKHOLE
