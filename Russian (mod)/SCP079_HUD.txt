@@ -44,8 +44,8 @@ $<color=#FFD700>💡</color> ИЗОЛЯЦИЯ$ доступна - нажмите
 $<color=#FFD700>💡</color> ИЗОЛЯЦИЯ$ мощность увеличена до $[number]$ комнат.
 $<color=red>🔒</color> БЛОКИРОВКА$ доступна - нажмите $[key]$ чтобы заблокировать все двери комнаты на 7с.
 [<color=#00FF00>+</color>] [amount] <color=#008000>ОПЫТА</color> - <color=#ff00b0>Команда администратора</color>
-[<color=#00FF00>+</color>] [amount] <color=#008000>ОПЫТА</color> - Помощь в устранении [role]
-[<color=#00FF00>+</color>] [amount] <color=#008000>ОПЫТА</color> - Прямое устранение [role]
+[<color=#00FF00>+</color>] [amount] <color=#008000>ОПЫТА</color> - Помощь в устранении[role]
+[<color=#00FF00>+</color>] [amount] <color=#008000>ОПЫТА</color> - Прямое устранение[role]
 [<color=#00FF00>+</color>] [amount] <color=#008000>ОПЫТА</color> - Свидетельство убийства союзником <color=#8080FF>📷</color>
 [<color=#00FF00>+</color>] [amount] <color=#008000>ОПЫТА</color> - Помощь в преследовании союзнику <color=#8080FF>🚪</color>
 [<color=#00FF00>+</color>] [amount] <color=#008000>ОПЫТА</color> - Защита союзника(ов) <color=#8080FF>🎽</color>
@@ -81,7 +81,7 @@ $🎥 СКАНЕР НАРУШЕНИЙ$ теперь доступен — выб�
 ВЫБРАННЫЕ ЗОНЫ: <color=yellow>0</color>\n <size=75%><color=orange>[ВЫБЕРИТЕ ХОТЯ БЫ ОДНУ ЗОНУ, ЧТОБЫ НАЧАТЬ СКАНИРОВАНИЕ]</color></size>
 Результат сканирования: $Стационарные цели не обнаружены$.
 Повторная попытка через <color=yellow>[time]</color> секунд...
-Результат сканирования: $[role]$ обнаружен в <color=yellow>‘$[camera_name]$’</color> <color=#823a35>([zone])</color>.
+Результат сканирования:$[role]$ обнаружен в <color=yellow>‘$[camera_name]$’</color> <color=#823a35>([zone])</color>.
 СКАНИРОВАНИЕ: <color=yellow>[time]</color> с.
 <color=#0ba11f>Сканирование...</color>
 <color=red>СКАНИРОВАНИЯ ПРИОСТАНОВЛЕНА</color>\n\n\n\n\n\n<size=65%>[<color=yellow>💡</color>] <b>СОВЕТ</b>\n\n</size><color=orange><size=55%>[УБЕДИТЕСЬ, ЧТО ВЫБРАН ХОТЯ БЫ ОДИН ФИЛЬТР]</size>\n\n<size=55%>[УБЕДИТЕСЬ, ЧТО ВЫБРАНА ХОТЯ БЫ ОДНА ЗОНА]</color>
