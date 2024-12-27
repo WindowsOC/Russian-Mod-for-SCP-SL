@@ -15,3 +15,5 @@
 [summary_scp_terminated] уничтожено <color=red>SCP</color>
 След. Раунд через [summary_next_round_countdown] секунд.
 <color=red>SCP</color> Убили [summary_scpfrags] человеческих существ.
+<size=90%>[ ПОБЕДА ФЛАМИНГО ]</size>
+Все остальные команды были уничтожены. Фламинго одержали тотальную победу.

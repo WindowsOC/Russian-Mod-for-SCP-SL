@@ -23,6 +23,7 @@
 「Надзиратель」
 <color=#363636>「Режиссёр」</color>
 <color=#DC143C>「SCP-3114」</color>
+「Уничтожен」
 <color=#FF59CA>「SCP-1507」</color>
 <color=#FF59CA>「1507-Альфа」</color>
 <color=red>「1507-049」</color>
