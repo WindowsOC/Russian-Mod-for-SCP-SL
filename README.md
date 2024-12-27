@@ -5,7 +5,7 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
 > Russian Mod был сделан на основе English Mod v4.0.3
 
-> Данный мод будет дополняться по мере обновлений и фиксов багов
+> Данный мод будет дополняться по мере обновлений и фиксов ошибок
 
 # **Русский:**
 1. Распакуйте файлы с переводом в файлы игры:
