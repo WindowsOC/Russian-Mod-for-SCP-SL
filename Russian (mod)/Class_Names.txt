@@ -4,7 +4,7 @@
 <b><color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>1</color><color=#e71414>0</color><color=#ec2222>6」</color></b>
 <b><color=#005583>「МОГ</color> <color=#005583>С</color><color=#005e91>п</color><color=#0068a0>е</color><color=#006ea8>ц</color><color=#0077b6>и</color><color=#007ec1>а</color><color=#0086cd>л</color><color=#008fdb>и</color><color=#0099ea>с</color><color=#00a3fa>т」</color></b>
 <b><color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>0</color><color=#e71414>4</color><color=#ec2222>9」</color></b>
-<b><color=#696900>「У</color><color=#7d7d00>ч</color><color=#909000>е</color><color=#a4a400>н</color><color=#b8b800>ы</color><color=#cbcb00>й」</color></b>
+<b><color=#7c7c37>「У</color><color=#929241>ч</color><color=#a7a74d>е</color><color=#bcbc58>н</color><color=#d5d569>ы</color><color=#ffff7c>й」</color></b>
 <b><color=#0a0aff>「S</color><color=#1e1eff>C</color><color=#3232ff>P</color><color=#4545ff>-</color><color=#5959ff>0</color><color=#6c6cff>7</color><color=#8080ff>9」</color></b>
 <b><color=#203700>「П.Х.</color> <color=#2c4c00>Н</color><color=#375e00>о</color><color=#467800>в</color><color=#508800>о</color><color=#579400>б</color><color=#5ea100>р</color><color=#67b000>а</color><color=#6ebc00>н</color><color=#75c700>е</color><color=#75c700>ц」</color></b>
 <b><color=#8c0c0c>「S</color><color=#9e0e0e>C</color><color=#b00f0f>P</color><color=#c21111>-</color><color=#d51212>0</color><color=#e71414>9</color><color=#ec2222>6」</color></b>
