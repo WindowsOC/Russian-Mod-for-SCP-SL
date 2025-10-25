@@ -1,8 +1,0 @@
-<color=#550081>🎮</color> Геймплей
-<color=#6f6f6f>🔫</color> Оружие
-<color=orange>🏃</color> Движение
-<color=#616161>🔲</color> Горячие клавиши
-<color=#ff00d3>🎤</color> Коммуникация
-💾 Система
-Неназначаемые
-<color=#00a8ff>「SCP-079」</color>
