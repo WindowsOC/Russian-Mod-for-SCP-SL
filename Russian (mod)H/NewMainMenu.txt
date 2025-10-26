@@ -56,7 +56,7 @@
 <color=#ffffff>Я</color><color=#ffdbdb>з</color><color=#ffb6b6>ы</color><color=#ff9292>к</color> <color=#ff6d6d>И</color><color=#ff4949>г</color><color=#ff2424>р</color><color=#ff0000>ы</color>
 Главное Меню
 Подключиться
-<color=yellow><size=18>◀️</size> <b>|</b></color> Назад
+<color=yellow>◀️ <b>|</b></color> Назад
 Эти изменения требуют перезапуска меню.\nПерезагрузить его сейчас?
 Да
 Нет
