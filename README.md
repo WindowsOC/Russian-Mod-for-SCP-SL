@@ -16,7 +16,7 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
 ![Снимок экрана 2024-08-29 142522](https://github.com/user-attachments/assets/1777eaf3-99f1-4235-9310-452a21711ee6)
 
-2. В настройках игры вам нужно будет перейти в раздел "<b>Интерфейс</b>", а затем изменить язык игры на "<b>Russian Mod</b>"
+2. В настройках игры вам нужно перейти в раздел "<b>Интерфейс</b>", а затем изменить язык игры на "<b>Russian Mod</b>"
 
    <hr>
 
@@ -26,7 +26,7 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
    <hr>
 
-# 🔍 **Просмотр:**
+# 🔍 **Предпросмотр:**
 > **Главное Меню**:
 
 > ![Снимок экрана 2024-11-25 172630](https://github.com/user-attachments/assets/895ef4a2-b67b-4370-b393-e78ae229757e)
@@ -63,4 +63,4 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
  
 ## **Original by: Adasiek & Dominikk (Thanks for the mod)**
-## **Translated by Windows**
+## **Translated by: Windows**
