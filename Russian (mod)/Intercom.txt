@@ -1,0 +1,8 @@
+<size=65%>📡</size>\n<color=#00FF00>ГОТОВ\nДЛЯ ВЕЩАНИЯ</color>
+<size=65%><color=white>📡</color></size>\n<color=#00FF00>ИДЁТ ВЕЩАНИЕ...</color>\n<size=70%>ОСТАЛОСЬ:<color=#FFFF00> {0}</size></color>
+<size=65%><color=white>📡</color></size>\n<color=#00FF00>ИДЁТ ВЕЩАНИЕ...</color>\n<color=#00FFFF><size=70%>РЕЖИМ ОБХОДА</size></color>
+<size=65%><color=orange>📡<sup>🔃</sup></color></size>\n<color=#FF0000>ПЕРЕЗАПУСК...</color>\n<color=#FFFF00>{0}</color>
+<size=65%><color=red>📡</color></size>\nИНТЕРКОМ ИСПОЛЬЗУЕТСЯ\n<color=#FF0000><size=70%>АДМИНИСТРАТОРОМ</size></color>
+<size=65%><color=red>📡<sup>❌</sup></color></size>\n<color=#FF0000>АДМИНИСТРАТОР</color> <color=#FF0000>ЗАПРЕТИЛ</color> ВАМ ПОЛЬЗОВАТЬСЯ ИНТЕРКОМОМ 
+НЕИЗВЕСТНО
+<size=65%><color=orange>📡</color></size>\n<color=yellow>НАЧИНАЕМ\n ВЕЩАНИЕ...</color>

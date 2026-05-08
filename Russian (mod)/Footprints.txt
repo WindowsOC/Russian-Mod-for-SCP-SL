@@ -1,0 +1,9 @@
+ (%time% ⏳)
+ (+%influence% 👊)
+<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
+Выполненные действия будут отображаться здесь!
+<color=%achieverColor%>[</color><color=%victimColor%>💀</color><color=%achieverColor%>]</color> <color=%achieverColor%>%achieverName%</color> убил <color=%victimColor%>%victimName%</color>
+<color=red>[💦]</color> <color=%achieverColor%>%achieverName%</color> нанёс урона <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>[🏃]</color> <color=%achieverColor%>%achieverName%</color> Сбежал из Комплекса
+<color=green>[🔅]</color> <color=%achieverColor%>%achieverName%</color> активировал <b>Генератор</b>
+<color=%achieverColor%>[👓]</color> <color=%achieverColor%>%achieverName%</color> подобрал <color=red>%itemName%</color>

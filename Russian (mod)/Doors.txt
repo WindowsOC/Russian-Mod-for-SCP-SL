@@ -1,0 +1,10 @@
+<color=green><size=30>ОТКРЫТО</size></color>
+<color=#07A2FF><size=30>ЗАКРЫТО</size></color>
+<color=orange><size=50>┃⇆┃</size>\n<size=23>В ДВИЖЕНИИ</size>\n</color>
+<color=red><size=50>-❌-</size></color>
+<size=40><color=yellow>⚠</color></size>
+<size=40><color=#f00505>❌</color></size>
+<size=40><color=green>✅</color></size>
+<size=40><color=#07A2FF>💳</color></size>
+<color=orange>ПОЖАЛУЙТСА, ПРОХОДИТЕ</color>
+<color=orange>ЗАКРЫВАЕТСЯ</color>
