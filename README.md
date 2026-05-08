@@ -63,4 +63,4 @@ SCP Secret Laboratory English Mod (by AdasiekJ and KappaDominikk ) for Russian P
 
  
 ## **Original by: Adasiek & Dominikk (Thanks for the mod)**
-## **Created by Windows**
+## **Translated by Windows**
